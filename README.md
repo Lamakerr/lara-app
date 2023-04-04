@@ -1,4 +1,4 @@
-![Image alt](https://github.com/Lamakerr/lara-airlines/blob/main/resources/assets/svg/Logo-Lara1.svg)
+![Image alt](https://github.com/Lamakerr/lara-app/blob/main/resources/assets/svg/Logo-Lara1.svg)
 <h1>Lara Airlines</h1>
 <hr/>
 <p>Пет-проект. Веб-приложение - создано для автоматизации бизнес процессов авиакпомнаий. В разработке..</p>
