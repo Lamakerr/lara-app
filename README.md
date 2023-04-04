@@ -24,7 +24,7 @@
 <li>Поднимаем контейнеры: docker-compose up -d</li>
 <li>создаем файл ".env", копируем в него содержимое ".env.example"</li>
 <li>Входим в основной контейнер: docker exec -it lara_air_app bash</li>
-<li>Выдаем себе права и прописываем зависимости: chmod 777 -R storage/ && composer install && php artisan migrate &&  php artisan db:seed —class=DatabaseSeeder && npm install && npm run build</li>
+<li>Выдаем себе права и прописываем зависимости: chmod 777 -R storage/ && composer install && php artisan migrate &&  php artisan db:seed --class=DatabaseSeeder && npm install && npm run build</li>
 <li>Начинаем разработку и коннектимся через браузер по адрессу: http://localhost/</li>
 <p>Если при загрузке страницы вы видете наше лого то все успешно!</p>
 </ul>
